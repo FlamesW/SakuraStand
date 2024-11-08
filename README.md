@@ -1,6 +1,6 @@
 # Made by flames9925
 
-### Mob Finder Script Source
+### Mob Finder Script Source (Put in Autoexe)
 ```lua
 getgenv().Flames_Hub_Mob_Finder = true; -- // true = on (enabled) | false = off (disabled) \\ --
 getgenv().Mob_Finder = {"Arbiter","Space Curse","Jotaro Kujo","Toji","Adjuchas"}; -- // List of NPCs to search for \\ --
